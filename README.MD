@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="100" src="./assets/banner-js.png">
-</p>
+
 
 
 <p align="center">
