@@ -8,12 +8,7 @@
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
+
 
 # 📕 Projeto Ebook: JavaScript na Prática
 
@@ -55,7 +50,7 @@ O material pode ser revisado e editado em qualquer ferramenta compatível com ar
 ## 👨‍💻 Autor
 
 <p>
-    <
+    
     <p>&nbsp&nbsp&nbspCaiqui Neves<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/caiquineves">
