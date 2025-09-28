@@ -1,21 +1,20 @@
-
-
+<p align="center">
+<img src="./assets/jedi.png" alt="Programador/Hacker" width="300">
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caiqui-neves-541244277/"><img src="https://img.shields.io/badge/LinkedIn-Caiqui_Neves-0A66C2?logo=linkedin" alt="LinkedIn - Caiqui Neves"></a>
-<a href="https://github.com/caiquineves"></a></p>
+<a href="https://github.com/caiquineves"><img src="https://img.shields.io/badge/GitHub-caiquineves-181717?logo=github" alt="GitHub - caiquineves"></a>
+</p>
 
 -------
-
-
-
 
 # 📕 Projeto Ebook: JavaScript na Prática
 
 
 > ℹ️ **NOTE:** Este repositório contém o ebook **"JavaScript na Prática"**, um guia objetivo e focado nos fundamentos da linguagem para quem deseja iniciar na construção de interações web reais. O material foi desenvolvido com o objetivo de demonstrar habilidades de diagramação e produção de conteúdo digital.
 
-<a href="./output/JavaScript_na_Pratica_Caiqui_Neves.pdf" title="View PDF now"> 🚀 Clique aqui para baixar o Ebook em PDF</a>
+<a href="./output/JavaScript_na_Pratica_Caiqui_Neves.pdf" title="View PDF now"> 🚀 Clique aqui para visualizar o Ebook em PDF</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -50,14 +49,14 @@ O material pode ser revisado e editado em qualquer ferramenta compatível com ar
 ## 👨‍💻 Autor
 
 <p>
-    
-    <p>&nbsp&nbsp&nbspCaiqui Neves<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/caiquineves">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/caiqui-neves-541244277/">LinkedIn</a>
+    
+    <p>&nbsp&nbsp&nbspCaiqui Neves<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/caiquineves">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/caiqui-neves-541244277/">LinkedIn</a>
 &nbsp;|&nbsp;
-    </p>
+    </p>
 </p>
 <br/><br/>
 <p>
