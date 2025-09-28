@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/caiqui-neves-541244277/"><img src="https://img.shields.io/badge/LinkedIn-Caiqui_Neves-0A66C2?logo=linkedin" alt="LinkedIn - Caiqui Neves"></a>
-<a href="https://github.com/caiquineves"><img src="https://img.shields.io/badge/GitHub-Project-black?logo=github" alt="Made with GitHub"></a></p>
+<a href="https://github.com/caiquineves"></a></p>
 
 -------
 
@@ -55,12 +55,7 @@ O material pode ser revisado e editado em qualquer ferramenta compatível com ar
 ## 👨‍💻 Autor
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4" 
-    />
+    <
     <p>&nbsp&nbsp&nbspCaiqui Neves<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/caiquineves">
